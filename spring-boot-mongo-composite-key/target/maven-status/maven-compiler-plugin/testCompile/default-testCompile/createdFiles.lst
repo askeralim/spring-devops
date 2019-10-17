@@ -1,0 +1,3 @@
+com\monogo\demo\DemoApplicationTests.class
+com\monogo\demo\repository\CategoryRepositoryCustomTest.class
+com\monogo\demo\repository\CategoryRepositoryTest.class

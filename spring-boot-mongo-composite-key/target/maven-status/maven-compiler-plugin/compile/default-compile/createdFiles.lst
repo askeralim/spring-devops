@@ -1,0 +1,7 @@
+com\monogo\demo\DemoApplication.class
+com\monogo\demo\repository\CategoryRepositoryCustom.class
+com\monogo\demo\model\CategoryPrimaryKey.class
+com\monogo\demo\model\CategoryResults.class
+com\monogo\demo\repository\CategoryRepository.class
+com\monogo\demo\controller\CategoryController.class
+com\monogo\demo\model\Category.class
